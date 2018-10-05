@@ -1,0 +1,7 @@
+plugin_info:
+  plugin_name: io
+  paths:
+    - imageio.py
+
+pip_requirements:
+  - imageio
